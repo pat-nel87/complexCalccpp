@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sav-dab87/cpp_classwork/calc_2/complexType.cpp
+complexType.h
+/home/sav-dab87/cpp_classwork/calc_2/complexType.h
+complexType.h
+/home/sav-dab87/cpp_classwork/calc_2/complexType.h
+cstdlib
+-
+cmath
+-
+
+/home/sav-dab87/cpp_classwork/calc_2/complexType.h
+iostream
+-
+
+/home/sav-dab87/cpp_classwork/calc_2/main.cpp
+iostream
+-
+complexType.h
+/home/sav-dab87/cpp_classwork/calc_2/complexType.h
+iomanip
+-
+

@@ -1,0 +1,4 @@
+/home/sav-dab87/installs/CLion-2021.1.1/clion-2021.1.1/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/sav-dab87/cpp_classwork/calc_2
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/sav-dab87/cpp_classwork/calc_2/cmake-build-debug

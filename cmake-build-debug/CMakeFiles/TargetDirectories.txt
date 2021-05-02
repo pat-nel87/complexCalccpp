@@ -1,0 +1,3 @@
+/home/sav-dab87/cpp_classwork/calc_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/sav-dab87/cpp_classwork/calc_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/sav-dab87/cpp_classwork/calc_2/cmake-build-debug/CMakeFiles/calc_2.dir
